@@ -82,7 +82,12 @@ a {
 }
 
 .ppolicy__paragraph {
+    margin-top: 10px;
+}
 
+.ppolicy__paragraph__topic {
+    margin-bottom: 10px;
+    font-size: 18px;
 }
 
 .footer {
@@ -100,4 +105,12 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.footer__copyright {
+
+}
+
+.footer__copyright__text {
+    color: white;
 }
